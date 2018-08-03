@@ -3,7 +3,7 @@
 %%view_email_url%%
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>ampwebview</tabTrigger>
+	<tabTrigger>ampweb</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.html.basic, text.html.ampscript, source.ampscript.embedded.html</scope>
 </snippet>

@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<meta http-equiv="refresh" content="2">
+<meta http-equiv="refresh" content="3">
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>livereload</tabTrigger>
+	<tabTrigger>metareload</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.html.basic, text.html.ampscript, source.ampscript.embedded.html</scope>
 </snippet>
