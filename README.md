@@ -1,2 +1,2 @@
 # sub-snips-redux
-Personal library of Sublime snippets created to for email development.
+Personal library of Sublime snippets, most of them useful for email development.
