@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<!--[if !mso]><!--><!--<![endif]-->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>notmso</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.basic, text.html.ampscript, source.ampscript.embedded.html</scope>
+</snippet>

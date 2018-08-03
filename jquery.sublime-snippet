@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+$(function(){
+   // jQuery methods go here...
+});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>jquery</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.basic, text.html.ampscript, source.ampscript.embedded.html</scope>
+</snippet>

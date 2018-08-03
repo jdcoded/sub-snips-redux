@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[&nbsp;]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>nbsp</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>text.html.basic, text.html.ampscript, source.ampscript.embedded.html</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>non-breaking space</description>
+</snippet>
